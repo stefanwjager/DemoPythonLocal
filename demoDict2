@@ -1,0 +1,9 @@
+from unicodedata import name
+
+
+person = {'name':  'stefan',
+        'city': 'rotterdam',
+        'leeftijd': '100'} 
+
+
+print(person.get('name'), person.get ('city'), person.get('leeftijd'))

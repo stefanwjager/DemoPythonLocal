@@ -1,0 +1,5 @@
+    #  http://api.open-notify.org/astros.json
+    #  vanuit browser
+    # {"message": "success", "people": [{"craft": "ISS", "name": "Oleg Ortemyev"}, {"craft": "ISS", "name": "Denis Matveev"}, etc, "number": 13}
+
+
