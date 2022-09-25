@@ -23,7 +23,7 @@
 # retourneert weerbericht lokaal
 import requests
 
-api_key = 'c0374ffd6e363378fae57558a2e47be4' 
+#!# api_key = 'c0374ffd6e363378fae57558a2e47be4' 
 city = 'sprang-capelle'
 city = 'waalwijk'
 # url = "http://api.openweathermap.org/geo/1.0/direct?q="{city name}&limit=5&appid=c0374ffd6e363378fae57558a2e47be4
