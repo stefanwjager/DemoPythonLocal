@@ -1,0 +1,15 @@
+import math
+def greeting(name):
+    print ('Hello ', name)
+
+def pythagoras (a,b):
+    answer =math.sqrt((a * a) + (b* b))
+    return answer
+
+#main program
+#input_name = input ('whats your name?\n')
+   
+#greeting (input_name)
+num1= float(input("lengte 1 \n"))
+num2= float(input("lengte 2 \n"))
+print("wortel van kwadraat van input1 en input2: ", pythagoras(num1, num2))

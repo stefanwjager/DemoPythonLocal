@@ -1,0 +1,43 @@
+{
+   "coord":{
+      "lon":5.07,
+      "lat":51.68
+   },
+   "weather":[
+      {
+         "id":803,
+         "main":"Clouds",
+         "description":"broken clouds",
+         "icon":"04d"
+      }
+   ],
+   "base":"stations",
+   "main":{
+      "temp":61.75,
+      "feels_like":60.31,
+      "temp_min":58.98,
+      "temp_max":66.25,
+      "pressure":1014,
+      "humidity":57
+   },
+   "visibility":10000,
+   "wind":{
+      "speed":9.22,
+      "deg":290
+   },
+   "clouds":{
+      "all":77
+   },
+   "dt":1664112630,
+   "sys":{
+      "type":2,
+      "id":2033084,
+      "country":"NL",
+      "sunrise":1664083816,
+      "sunset":1664127158
+   },
+   "timezone":7200,
+   "id":2745123,
+   "name":"Waalwijk",
+   "cod":200
+}
