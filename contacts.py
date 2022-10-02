@@ -1,5 +1,3 @@
-from cgi import print_arguments
-from unicodedata import name
 
 
 contacts = {
